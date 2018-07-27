@@ -1,0 +1,190 @@
+
+      body, h1, h2, h3, h4, h5, h6, p, ul, li {
+        padding: 0px;
+        margin: 0px;
+      }
+
+      p {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+      }
+
+      .navbar {
+        background-color: #04080F;
+        height: 60px;
+      }
+      .navbar ul {
+        color: white;
+      }
+
+      .navbar li {
+        margin-right: 40px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+        display: inline-block;
+      }
+      .navbar li a {
+        color: white;
+        padding: 10px 0px;
+        text-decoration: none;
+      }
+      .logo {
+        margin: 10px 0px 0px 40px;
+        height: 35px;
+        width: 35px;
+      }
+
+      .section-hero {
+        background-image: url(../img/bg-hero.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+      }
+
+      .section-hero-background-color {
+        background-color: rgba(179, 107, 1, 23%);
+        height: 500px;
+      }
+
+      .section-hero-text {
+        color: #fff;
+        text-shadow: 2px 1px #707070;
+        text-align: right;
+      }
+
+      .section-hero h1 {
+        font-size: 60px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+      }
+
+      .section-hero h2 {
+        font-size: 25px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+      }
+
+      .section-location {
+        color: #707070;
+        padding: 100px 0px;
+        text-align: center;
+      }
+      .section-location-text{
+        padding: 30px;
+      }
+      .section-location img{
+        height: 250px;
+      }
+
+      .section-location-text h2 {
+        font-size: 35px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 900;
+      }
+      .section-location-text h4 {
+        color: rgba(112, 112, 112, 0.8);
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+      }
+
+      .section-next-meeting {
+	      background-color: #A4452C;
+	      color: white;
+        padding: 80px 0px;
+        text-align: center;
+
+      }
+
+      .div-next-meeting {
+        display: inline-block;
+      }
+
+      .float-left {
+          float: left;
+          width: 400px;
+      }
+
+      .section-next-meeting img {
+        width: 70%;
+        border-radius: 5px;
+      }
+      .section-next-meeting h2 {
+        font-size: 40px;
+        text-align: left;
+      }
+
+      .section-next-meeting h3 {
+        padding-top: 10px;
+        font-size: 30px;
+        text-align: left;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+      }
+
+      .section-next-meeting h4 {
+        padding-top: 10px;
+        font-size: 25px;
+        text-align: left;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+      }
+
+      .section-next-meeting h5 {
+        text-align: left;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+      }
+
+      .section-next-meeting p {
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: left;
+      }
+
+      .section-previous-meeting {
+  	    color: #707070;
+        padding: 80px 0px 100px 0px;
+        text-align: center;
+        height: 35%;
+      }
+      .section-previous-meeting h2 {
+        margin-top: 30px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 900;
+        padding-bottom: 20px;
+        clear: both;
+      }
+
+      .section-previous-meeting-img {
+        display: inline-block;
+        padding: 3px;
+      }
+
+
+      .footer {
+        background-color: #04080F;
+        color: white;
+        height: 150px;
+      }
+
+      .footer h5 {
+        text-align: center;
+        font-size: 14px;
+      }
+
+      .footer-socialnav {
+        text-align: center;
+        padding-top: 30px;
+      }
+
+      .footer-socialnav-icon {
+        display: inline-block;
+      }
+
+      .footer-socialnav-icon a i {
+        font-size: 40px;
+        padding: 20px;
+        color: #ffffff;
+      }
